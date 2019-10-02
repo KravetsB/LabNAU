@@ -1,2 +1,3 @@
-[some text]
+some text
 this file is used for the first lab
+second branch
